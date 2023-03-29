@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/49.externC浅析.cpp.o CMakeFiles/main.dir/49.附加1test.c.o -o main 

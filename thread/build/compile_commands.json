@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/data/home/whx/develop/cpp/thread/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/thread_example.dir/8_hardware_concurrency.cpp.o -c /data/home/whx/develop/cpp/thread/8_hardware_concurrency.cpp",
+  "file": "/data/home/whx/develop/cpp/thread/8_hardware_concurrency.cpp"
+}
+]

@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "exception": "cpp",
+        "limits": "cpp",
+        "new": "cpp",
+        "stdexcept": "cpp",
+        "typeinfo": "cpp",
+        "iostream": "cpp"
+    }
+}

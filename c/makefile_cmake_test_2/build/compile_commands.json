@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/data/home/whx/develop/cpp/c/makefile_cmake_test_2/build",
+  "command": "/usr/bin/g++  -I/data/home/whx/develop/cpp/c/makefile_cmake_test_2/include  -Wall -g -o CMakeFiles/my_cmake_exe.dir/main.cpp.o -c /data/home/whx/develop/cpp/c/makefile_cmake_test_2/main.cpp",
+  "file": "/data/home/whx/develop/cpp/c/makefile_cmake_test_2/main.cpp"
+},
+{
+  "directory": "/data/home/whx/develop/cpp/c/makefile_cmake_test_2/build",
+  "command": "/usr/bin/g++  -I/data/home/whx/develop/cpp/c/makefile_cmake_test_2/include  -Wall -g -o CMakeFiles/my_cmake_exe.dir/src/Gun.cpp.o -c /data/home/whx/develop/cpp/c/makefile_cmake_test_2/src/Gun.cpp",
+  "file": "/data/home/whx/develop/cpp/c/makefile_cmake_test_2/src/Gun.cpp"
+},
+{
+  "directory": "/data/home/whx/develop/cpp/c/makefile_cmake_test_2/build",
+  "command": "/usr/bin/g++  -I/data/home/whx/develop/cpp/c/makefile_cmake_test_2/include  -Wall -g -o CMakeFiles/my_cmake_exe.dir/src/Soldier.cpp.o -c /data/home/whx/develop/cpp/c/makefile_cmake_test_2/src/Soldier.cpp",
+  "file": "/data/home/whx/develop/cpp/c/makefile_cmake_test_2/src/Soldier.cpp"
+}
+]

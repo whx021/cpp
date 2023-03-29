@@ -1,0 +1,3 @@
+/data/home/whx/develop/cpp/thread/build/CMakeFiles/thread_example.dir
+/data/home/whx/develop/cpp/thread/build/CMakeFiles/edit_cache.dir
+/data/home/whx/develop/cpp/thread/build/CMakeFiles/rebuild_cache.dir

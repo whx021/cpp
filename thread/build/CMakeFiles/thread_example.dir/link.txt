@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/thread_example.dir/8_hardware_concurrency.cpp.o -o thread_example  -lpthread 
